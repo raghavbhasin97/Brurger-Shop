@@ -1,6 +1,6 @@
 # Burger Shop
 
-<img src="img/logo.png" width="50" height="50">
+<img src="img/logo.png" width="78" height="50">
 A React.js app that allows browsing through, menu of burgers, creating your custom burger & placing an order.
 
 
