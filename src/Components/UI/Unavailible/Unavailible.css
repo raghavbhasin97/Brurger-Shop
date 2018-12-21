@@ -1,0 +1,14 @@
+.Unavailible {
+	padding: 20px 20px;
+	text-align: center;
+	display: block;
+	width: 100%;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
+
+.Unavailible img{
+	height: 200px;
+	width: 200px;
+}

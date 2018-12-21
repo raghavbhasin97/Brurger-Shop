@@ -1,0 +1,30 @@
+.Menu {
+	text-align: center;
+	padding: 5%;
+}
+
+.MenuSpinner {
+	padding-top: 24px;
+}
+
+.MenuSpinner p {
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Aleo', serif;
+}
+
+.Menu p {
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Aleo', serif;
+}
+
+.Menu ul li{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
+}

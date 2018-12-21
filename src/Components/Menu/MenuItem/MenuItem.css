@@ -1,0 +1,92 @@
+.MenuItem {
+	background-color: #ededed;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 30%;
+  border-radius: 5px;
+  height: 30%;
+}
+
+.MenuItem img {
+  height: 17.5vw;
+	width: 100%;
+	border-radius: 5px 5px 0 0;
+}
+
+
+.MenuItem:hover {
+  box-shadow: 8px 8px 16px 0 rgba(0,0,0,0.2);
+  cursor: pointer;
+}
+
+
+.MenuItemContainer {
+  padding: 2px 16px;
+  height: 150px;
+}
+
+.MenuItemContainer h4{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.MenuItemContainer p {
+  font-weight: normal;
+  font-size: 14px;
+  text-align: left;
+}
+
+
+@media(max-width: 900px) {
+  .MenuItem {
+    width: 32%;
+  }
+
+  .MenuItemContainer {
+    padding: 2px 12px;
+  }
+
+  .MenuItemContainer h4{
+    font-size: 18px;
+  }
+
+  .MenuItemContainer p {
+    font-size: 12.5px;
+  }
+}
+
+@media(max-width: 700px) {
+  .MenuItem {
+    width: 37.5%;
+  }
+
+  .MenuItemContainer {
+    padding: 2px 8px;
+  }
+
+  .MenuItemContainer h4{
+    font-size: 15.5px;
+  }
+
+  .MenuItemContainer p {
+    font-size: 11.5px;
+  }
+}
+
+@media(max-width: 510px) {
+  .MenuItem {
+    width: 42.5%;
+  }
+
+  .MenuItemContainer {
+    padding: 2px 5px;
+  }
+
+  .MenuItemContainer h4{
+    font-size: 13.5px;
+  }
+
+  .MenuItemContainer p {
+    font-size: 9.5px;
+  }
+}

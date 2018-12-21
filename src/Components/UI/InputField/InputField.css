@@ -1,0 +1,56 @@
+.InputField {
+	position: relative;
+	width: 100%;
+    border: 1px solid #e6e6e6;
+    border-radius: 13px;
+    padding: 10px 10px;
+    background-color: #f7f7f7;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.InputField span{
+	font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    color: #393939;
+    line-height: 1.5;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.InputField input{
+	display: block;
+    width: 100%;
+    background: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.2;
+    padding-right: 15px;
+    height: 30px;
+    outline: none;
+    border: none;
+    overflow: visible;
+}
+
+
+.InputField textarea{
+	min-height: 120px;
+    padding-top: 9px;
+    padding-bottom: 13px;
+    display: block;
+    width: 100%;
+    background: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.2;
+    padding-right: 15px;
+    outline: none;
+    border: none;
+    overflow: auto;
+    resize: vertical;
+}
