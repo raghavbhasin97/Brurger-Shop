@@ -18,10 +18,10 @@ A React.js app that allows browsing through, menu of burgers, creating your cust
 <kbd><img src="img/info.png" width="400" height="300"></kbd>
 
 #### Order Confirmation
-<kbd><img src="img/confirmation.png" width="400" height="300"></kbd>
+<kbd><img src="img/confirmation.png" width="420" height="300"></kbd>
 
 #### Past Orders
-<kbd><img src="img/past.png" width="400" height="300"></kbd>
+<kbd><img src="img/past.png" width="400" height="320"></kbd>
 
 ## Features
 - [x] Browsing through a menu of burger's
