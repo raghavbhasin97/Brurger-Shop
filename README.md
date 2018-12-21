@@ -12,7 +12,7 @@ A React.js app that allows browsing through, menu of burgers, creating your cust
 <kbd><img src="img/builder.png" width="360" height="300"></kbd>
 
 #### Order Summary
-<kbd><img src="img/orderSummary.png" width="360" height="300"></kbd>
+<kbd><img src="img/orderSummary.png" width="400" height="300"></kbd>
 
 #### Information Page
 <kbd><img src="img/info.png" width="360" height="300"></kbd>
